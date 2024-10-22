@@ -1,2 +1,2 @@
 # qsdh
-Superconducting Quantum
+Superconducting Quantum Project
